@@ -1,0 +1,4 @@
+An operating system, or OS, is a software program.
+An operating system enables the computer hardware to communicate and operate with the comptuer software.
+Without a computer operating system, a computer would be useless.
+Operating systems include Linux and Windows.
